@@ -7,6 +7,7 @@ The homepage features a dedicated section where you can add your art pieces.
 When you tap the '+' button, it takes you to another page for data entry.
 You can input the artwork's name, artist, year, and an image. Once added, the artwork's name appears on the main page's list. When you click on the name, you're directed to a page displaying its details.
 Adding and deleting items from your lists is effortless.
+I used Swift / Storyboard.
 
 
 <img width="383" alt="Screenshot 2023-08-18 at 08 49 57" src="https://github.com/Sinemapaydn/ArtBookProject/assets/114518514/44325b46-51b9-4e96-bbc5-f3aea4bfd484">
